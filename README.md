@@ -1,6 +1,7 @@
 # Button DOMINATOR
 Button Domination Timer based on RFID DOMINATOR PCB, sub-variant modification.
 * Removed MFRC522 reader, used screw terminals for wiring with pushbuttons, optionally possible to use their LED backlight
+* Drilled 2 holes for low-profile pushbuttons, possible to use various diameter 16 up to 22 mm
 #
 * Button Domination Timer is a stopwatch designed for Airsoft, Paintball, Nerf Wars.
 * It is counting the total occupancy time on point by each team within a game
