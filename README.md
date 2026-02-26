@@ -8,3 +8,4 @@ Button Domination Timer based on RFID DOMINATOR PCB, sub-variant modification.
 * Suitable for DOMINATION / Capture the Point game modes. Great for events, arenas
 * Possible to mount on the tree, pipe, joist using tie-belt
 * Arduino based project, open-source hardware, cheap modules, 3D printed enclosure
+<img width="1920" height="1445" alt="image" src="https://github.com/user-attachments/assets/b141ccc3-2199-4bf1-a574-23a48b13788d" />
